@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.fullskele.elementalend.mixin",
+    "refmap": "refmap.elementalend.json",
+    "minVersion": "0.8",
+    "mixins": ["PortalRoomMixin"],
+    "client": [],
+    "server": []
+}

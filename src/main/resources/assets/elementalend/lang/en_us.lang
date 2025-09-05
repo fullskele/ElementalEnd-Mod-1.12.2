@@ -1,0 +1,47 @@
+item.elementalend.aether_eye.name=Eye of Aether
+item.elementalend.aether_eye.tooltip=Crafted using rare materials.
+tile.elementalend.aether_frame.name=Aether End Portal Frame
+
+item.elementalend.arid_eye.name=Eye of Dunes
+item.elementalend.arid_eye.tooltip=Dropped rarely by Husks.
+tile.elementalend.arid_frame.name=Dunes End Portal Frame
+
+item.elementalend.chaos_eye.name=Eye of Chaos
+item.elementalend.chaos_eye.tooltip=Dropped rarely by Witches.
+tile.elementalend.chaos_frame.name=Chaos End Portal Frame
+
+item.elementalend.earth_eye.name=Eye of Nature
+item.elementalend.earth_eye.tooltip=Found in Jungle Temples.
+tile.elementalend.earth_frame.name=Nature End Portal Frame
+
+item.elementalend.fire_eye.name=Eye of Flames
+item.elementalend.fire_eye.tooltip=Found uncommonly in Nether Fortress chests.
+tile.elementalend.fire_frame.name=Flames End Portal Frame
+
+item.elementalend.icy_eye.name=Eye of Frost
+item.elementalend.icy_eye.tooltip=Dropped rarely by Strays.
+tile.elementalend.icy_frame.name=Frost End Portal Frame
+
+item.elementalend.lightning_eye.name=Eye of Storms
+item.elementalend.lightning_eye.tooltip=Dropped by Charged Creepers.
+tile.elementalend.lightning_frame.name=Storms End Portal Frame
+
+item.elementalend.magic_eye.name=Eye of Magic
+item.elementalend.magic_eye.tooltip=Dropped by Evokers.
+tile.elementalend.magic_frame.name=Magic End Portal Frame
+
+item.elementalend.nether_eye.name=Eye of Nether
+item.elementalend.nether_eye.tooltip=Crafted using Nether materials.
+tile.elementalend.nether_frame.name=Nether End Portal Frame
+
+item.elementalend.order_eye.name=Eye of Order
+item.elementalend.order_eye.tooltip=Bought from expert Cleric Villagers.
+tile.elementalend.order_frame.name=Order End Portal Frame
+
+item.elementalend.void_eye.name=Eye of Void
+item.elementalend.void_eye.tooltip=Found in Mineshaft chests.
+tile.elementalend.void_frame.name=Void End Portal Frame
+
+item.elementalend.water_eye.name=Eye of Tides
+item.elementalend.water_eye.tooltip=Dropped by Elder Guardians.
+tile.elementalend.water_frame.name=Tides End Portal Frame

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:ender_pearl" },
+    { "item": "minecraft:nether_wart" },
+    { "item": "minecraft:ghast_tear" }
+  ],
+  "result": {
+    "item": "elementalend:nether_eye",
+    "count": 1
+  }
+}
