@@ -1,5 +1,6 @@
 package com.fullskele.elementalend.item;
 
+import com.fullskele.elementalend.Config;
 import com.fullskele.elementalend.ElementalEnd;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.creativetab.CreativeTabs;
@@ -24,6 +25,7 @@ public class ItemEyeBase extends Item {
     @Override
     @SideOnly(Side.CLIENT)
     public void addInformation(ItemStack stack, @Nullable World worldIn, List<String> tooltip, ITooltipFlag flagIn) {
+        if (Config.minimalistMode) return;
         String key = stack.getTranslationKey() + ".tooltip";
         if (I18n.canTranslate(key)) {
             tooltip.add(I18n.translateToLocal(key));
